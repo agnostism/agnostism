@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fairy, a CS student and novice penetration tester.
+- 👋 Hi, I’m Fairy, a CS student and novice penetration tester.
 - 👩‍💻 I love spending time on projects releated to machine learning, data compression and network security. 
 - 🌱 Currently learning Rust, Solidity. I'm also working on Anima, a lightweight programming language.
 - 📫 You can contact me via email at fairysghost@gmail.com.
