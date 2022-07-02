@@ -8,7 +8,7 @@ Hey I'm Kaori, a CS student interested in [generative machine learning](https://
 Some CS topics I find interesting:
 
   * [Synthetic media](https://en.wikipedia.org/wiki/Synthetic_media)
-  * [Codec design](https://en.wikipedia.org/wiki/Data_compression#Machine_learning)
+  * [Video coding](https://b-ok.cc/book/2465515/f5e9d8)
 
 
 ## 💻 Projects
