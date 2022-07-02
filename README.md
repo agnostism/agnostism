@@ -3,7 +3,7 @@ Hey I'm Kaori, a CS student interested in [generative machine learning](https://
 
 ## 📚 Books
 
-Books I'm currently reading or would recommend to those interested in AI:
+Books I'm currently reading or would recommend:
 
   * [*Deep Generative Learning*](https://b-ok.cc/book/5260748/f22ad5)
   * [*GANs In Action*](https://b-ok.cc/book/5256274/ae75c1)
