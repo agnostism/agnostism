@@ -1,13 +1,6 @@
-I'm a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and [AI ethics](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). I'm also fond of penetration testing and tackling CTFs.
+I'm a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and [AI ethics](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). I also enjoy penetration testing and playing CTFs.
 
-## ♥ Topics
 
-Some AI/CS topics I find especially interesting:
-
-  * [Synthetic media generation](https://en.wikipedia.org/wiki/Synthetic_media)
-  * [AI data compression](https://en.wikipedia.org/wiki/Data_compression#Machine_learning)
-  * AI morality
-  
 ## 📚 Books
 
 Books I'm currently reading or would recommend to those interested in AI:
@@ -21,6 +14,14 @@ Books I'm currently reading or would recommend to those interested in AI:
   * [*Introduction To Data Compression*](https://b-ok.cc/book/3629223/77bd36)
   * [*Mathematics For Machine Learning*](https://b-ok.cc/book/5523576/586140)
 
+## ♥ Topics
+
+Some AI/CS topics I find especially interesting:
+
+  * [Synthetic media generation](https://en.wikipedia.org/wiki/Synthetic_media)
+  * [AI data compression](https://en.wikipedia.org/wiki/Data_compression#Machine_learning)
+  * [AI morality]
+  
 ## ✉ Contact
 
 Feel free to drop me an email at kaeori@proton.me.
