@@ -1,5 +1,16 @@
-Hey I'm Kaori, a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and [AI ethics](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). Also fond of penetration testing and CTF games.
+# Kaori
 
+I'm a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and [AI ethics](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). Also fond of penetration testing and CTF games.
+
+
+## ♥ Topics
+
+Some AI/CS topics I find especially interesting:
+
+  * [Synthetic media generation](https://en.wikipedia.org/wiki/Synthetic_media)
+  * [AI data compression](https://en.wikipedia.org/wiki/Data_compression#Machine_learning)
+  * [AI vulnerabilities](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
+  
 
 ## 📚 Books
 
@@ -14,14 +25,7 @@ Books I'm currently reading or would recommend:
   * [*Introduction To Data Compression*](https://b-ok.cc/book/3629223/77bd36)
   * [*Mathematics For Machine Learning*](https://b-ok.cc/book/5523576/586140)
 
-## ♥ Topics
 
-Some AI/CS topics I find especially interesting:
-
-  * [Synthetic media generation](https://en.wikipedia.org/wiki/Synthetic_media)
-  * [AI data compression](https://en.wikipedia.org/wiki/Data_compression#Machine_learning)
-  * [AI vulnerabilities](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
-  
 ## ✉ Contact
 
 Feel free to drop me an email at kaeori@proton.me.
