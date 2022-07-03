@@ -23,8 +23,8 @@ TODO
 Books I'm currently reading or would recommend:
 
   * [*Deep Generative Learning*](https://b-ok.cc/book/5260748/f22ad5) 🔥x3 💻x3 🧠x2
-  * [*GANs In Action*](https://b-ok.cc/book/5256274/ae75c1) 💻x2 🧠x1
-  * [*AI Ethics*](https://b-ok.cc/book/5620970/e564e1) 🔥x3 🧠x3
+  * [*GANs In Action*](https://b-ok.cc/book/5256274/ae75c1) 🔥x2 💻x2 🧠x1
+  * [*AI Ethics*](https://b-ok.cc/book/5620970/e564e1) 🔥x3 💻x0 🧠x3
   * [*Mastering Transformers*](https://b-ok.cc/book/17356470/e7bc75) 🔥x1 🧠x2 💻x2
   * [*Dive Into Deep Learning (d2l.ai)*](https://b-ok.cc/book/11638445/05fd36) 🔥x4 💻x4 🧠x4
   * [*Causal Inference In Statistics*](https://b-ok.cc/book/2664651/adcbf6) 🔥x3 💻x1 🧠x2
