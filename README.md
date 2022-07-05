@@ -8,11 +8,9 @@ Hey I'm Kaori, a CS student interested in [generative machine learning](https://
 Some CS and ML topics I find especially interesting:
 
   * [Synthetic media](https://en.wikipedia.org/wiki/Synthetic_media)
-  * [AI ethics](https://b-ok.cc/book/5620970/e564e1)
-  * [AI Compression](https://b-ok.cc/book/2465515/f5e9d8)
-  * [Computer graphics](https://b-ok.cc/book/2799695/add4ab)
+  * [Digital ethics](https://b-ok.cc/book/5620970/e564e1)
+  * [Data compression](https://b-ok.cc/book/2465515/f5e9d8)
   * [Penetration testing](https://en.wikipedia.org/wiki/Penetration_test) 
-  * [Future internets](https://en.wikipedia.org/wiki/Named_data_networking)
 
 
 ## 💻 Projects
@@ -35,7 +33,7 @@ Books I'm currently reading or would recommend:
   * [*Probabilistic Machine Learning*](https://b-ok.cc/book/19323525/af1a71) 🔥🧠 
   * [*Bayesian Networks In Forensic Science*](https://b-ok.cc/book/2361384/4feb40) 🔥🧠 
   * [*Hacking - The Art Of Exploitation*](https://b-ok.cc/book/1661938/1c7825) 🔥💻🧠 
-  * [*Code*](https://b-ok.cc/book/1248513/dcdd05) 🔥🧠
+  * [*Video Codec Design*](https://b-ok.cc/book/2465515/f5e9d8) 🔥🧠
 
 Key:  
 🔥 = well written  
