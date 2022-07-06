@@ -3,16 +3,6 @@
 Hey I'm Kaori, a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and [AI ethics](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). I'm also fond of penetration testing and CTF games.
 
 
-## ❤️ Topics
-
-Some CS topics I find especially interesting:
-
-  * [Synthetic media](https://en.wikipedia.org/wiki/Synthetic_media)
-  * [Digital ethics](https://b-ok.cc/book/5620970/e564e1)
-  * [Data compression](https://b-ok.cc/book/2465515/f5e9d8)
-  * [Penetration testing](https://en.wikipedia.org/wiki/Penetration_test) 
-
-
 ## 💻 Projects
 
 TODO
