@@ -5,7 +5,8 @@ Hey I'm Kaori, a CS student interested in [generative machine learning](https://
 
 ## 💻 Projects
 
-TODO
+  * [Picograd](https://github.com/kaeori/picograd) - a tiny automatic differentiation engine.
+
 
 ## 📚 Books
 
