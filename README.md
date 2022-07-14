@@ -20,4 +20,4 @@ Some books I would recommend:
 
 ### ✉ Contact
 
-Feel free to drop an [email](mailto:kaeori@proton.me)
+Feel free to drop an [email](mailto:kaeori@proton.me)!
