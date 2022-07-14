@@ -24,13 +24,3 @@ Books I'm currently reading or would recommend:
   * [*Hacking - The Art Of Exploitation*](https://b-ok.cc/book/1661938/1c7825) 🔥💻🧠
   * [*Practical Reverse Engineering*](https://b-ok.cc/book/2328252/28f443) 💻🧠
   * [*The Web Application Hackers Handbook*](https://b-ok.cc/book/2717722/fb289e) 💻
-
-Key:
-🔥 = well written  
-💻 = practical  
-🧠 = theoretical  
-
-
-### ✉ Contact
-
-Feel free to drop me an email at kaeori@proton.me.
