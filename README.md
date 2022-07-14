@@ -17,9 +17,6 @@ Some books I would recommend:
   * [*Dive Into Deep Learning (d2l.ai)*](https://b-ok.cc/book/11638445/05fd36)
   * [*Causal Inference In Statistics*](https://b-ok.cc/book/2664651/adcbf6)
   * [*Introduction To Data Compression*](https://b-ok.cc/book/3629223/77bd36)
-  * [*Hacking - The Art Of Exploitation*](https://b-ok.cc/book/1661938/1c7825)
-  * [*Practical Reverse Engineering*](https://b-ok.cc/book/2328252/28f443)
-  * [*The Web Application Hackers Handbook*](https://b-ok.cc/book/2717722/fb289e)
 
 ### ✉ Contact
 
