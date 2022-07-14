@@ -21,4 +21,4 @@ Some books I'm currently reading or would recommend:
 
 ### 📧 Contact
 
-Feel free to drop an [email](mailto:kaeori@proton.me)!
+Feel free to [drop me an email](mailto:kaeori@proton.me)
