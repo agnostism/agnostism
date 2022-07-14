@@ -10,7 +10,7 @@ TODO
   
 ### 📚 Books
 
-Some books I'm currently reading:
+Some books I'm currently reading or would recommend:
 
   * [*Deep Generative Learning*](https://b-ok.cc/book/5260748/f22ad5)
   * [*GANs In Action*](https://b-ok.cc/book/5256274/ae75c1)
