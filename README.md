@@ -5,11 +5,12 @@ Hey I'm Kaori, a CS student interested in [generative models](https://en.wikiped
 
 ### 💻 Projects
 
-  * [tinygrad](https://github.com/kaeori/picograd) - a tiny automatic differentiation engine.
+TODO
+
   
 ### 📚 Books
 
-Some books I'm currently reading or would recommend to fellow students:
+Some books I'm currently reading:
 
   * [*Deep Generative Learning*](https://b-ok.cc/book/5260748/f22ad5)
   * [*GANs In Action*](https://b-ok.cc/book/5256274/ae75c1)
