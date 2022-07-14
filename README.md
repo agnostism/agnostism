@@ -1,4 +1,4 @@
-### 👋 Hello, World!
+## Hello, World!
 
 Hey I'm Kaori, a CS student interested in [generative models](https://en.wikipedia.org/wiki/Generative_model) and [AI ethics](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). I'm also fond of penetration testing and CTF games.
 
