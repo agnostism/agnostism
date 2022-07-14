@@ -18,6 +18,6 @@ Some books I would recommend:
   * [*Causal Inference In Statistics*](https://b-ok.cc/book/2664651/adcbf6)
   * [*Introduction To Data Compression*](https://b-ok.cc/book/3629223/77bd36)
 
-### ✉ Contact
+### 📧 Contact
 
 Feel free to drop an [email](mailto:kaeori@proton.me)!
