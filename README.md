@@ -1,8 +1,8 @@
-- 👋 Hi there, I'm Kaori, a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and AI ethcs.
+- 👋 Hi there, I'm Tiffany, a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and AI ethcs.
 - ❤ I love exploring projects related to synthetic media and penetration testing.
 - 🌊 I'm currenlty working on [Ocean](https://github.com/kaeori/ocean), a deep learning framework inspired by PyTorch.
 - 🌺 ...and [Akiko](https://github.com/kaeori/akiko), a modular source code optimizer for Python. 
 - 💻 I'm currently learning Rust and Solidity! 
 - 📚 I'm researching the applications of generative models to video compression. 
 - 🍇 I love grapes!
-- 📫 Contact me via [kaeori@proton.me](mailto:kaeori@proton.me).
+- 📫 Contact me via [oruwmztbnz4q@proton.me](mailto:oruwmztbnz4q@proton.me).
