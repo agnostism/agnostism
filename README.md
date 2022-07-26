@@ -2,6 +2,7 @@
 - ❤ I love exploring projects related to synthetic media and penetration testing.
 - 🌊 I'm currenlty working on [Ocean](https://github.com/kaeori/ocean), a deep learning framework inspired by PyTorch.
 - 🌺 ...and [Akiko](https://github.com/kaeori/akiko), a modular source code optimizer for Python. 
-- 💻 I'm trying to learn Rust and get to grips with Solidity. 
+- 💻 I'm currently learning Rust and Solidity! 
+- 📚 I've been researching the applications of .
 - 🍇 I love grapes!
 - 📫 Contact me via [kaeori@proton.me](mailto:kaeori@proton.me).
