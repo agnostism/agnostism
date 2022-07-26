@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Kaori, a CS student interested in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model) and AI ethcs.
-- ❤ I love exploring projects related to synthetic media, penetration testing and coding theory.
-- 📚 I'm currently learning about [MDL methods](https://en.wikipedia.org/wiki/Minimum_description_length) and researching AI-based compression schemes.
+- ❤ I love exploring projects related to synthetic media and penetration testing.
+- 📚 I'm currently learning about [MDL methods](https://en.wikipedia.org/wiki/Minimum_description_length).
 - 🌊 I've been working on [Ocean](https://github.com/kaeori/ocean), a deep learning framework built from scratch.
 - 🌺 ...and [Akiko](https://github.com/kaeori/akiko), a modular source code optimizer for Python. 
 - 💻 I'm trying to learn Rust and get to grips with Solidity. 
