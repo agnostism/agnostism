@@ -5,4 +5,4 @@
 - 🌺 ...and [Akiko](https://github.com/kaeori/akiko), a modular source code optimizer for Python. 
 - 💻 I'm trying to learn Rust and get to grips with Solidity. 
 - 🍇 I love grapes!
-- 📫 Feel free to drop an email at [kaeori@proton.me](mailto:kaeori@proton.me).
+- 📫 Contact me via [kaeori@proton.me](mailto:kaeori@proton.me).
