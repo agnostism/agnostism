@@ -4,5 +4,5 @@
 - 🌺 ...and [Akiko](https://github.com/tiffanywhite/akiko), a modular source code optimizer for Python. 
 - 💻 I'm currently learning Rust and Solidity! 
 - 📚 I'm currently reading [*Causal Inference In Statistics*](https://3lib.net/book/2664651/adcbf6) by Judea Pearl.
-- 🥭 My favorite fruits are mango and grapes.
-- 📫 My email is [altalice@proton.me](mailto:altalice@proton.me).
+- 🥭 My favorite fruits are mango and grapes!
+- 📫 You can contact me at [gnostism@proton.me](mailto:gnostism@proton.me).
