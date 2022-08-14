@@ -1,8 +1,7 @@
-- 👋 Hi there, I'm Alice, a CS student interested in [synthetic media](https://en.wikipedia.org/wiki/Synthetic_media) and penetration testing.
-- ❤ I love finding software vulnerabilities and playing CTF games. 
-- 🌊 I'm currently working on [Ocean](https://github.com/tiffanywhite/ocean), a deep learning framework built from scratch.
-- 🌺 ...and [Akiko](https://github.com/tiffanywhite/akiko), a modular source code optimizer for Python. 
-- 💻 I'm currently learning Rust and Solidity! 
+- 👋 Hi there, I'm Alice, a CS student interested in [synthetic media](https://en.wikipedia.org/wiki/Synthetic_media), digital ethics and penetration testing.
+- ❤ I love playing CTF games and finding software vulnerabilities.
+- 💻 I'm currently working on [Akiko](https://github.com/gnostism/akiko), a modular source code optimizer; and [Ocean](https://github.com/gnostism/ocean), a small deep learning framework.
+- 🎓 I'm currently studying the use of human supervision in reinforcement learning.
 - 📚 I'm currently reading [*Causal Inference In Statistics*](https://3lib.net/book/2664651/adcbf6) by Judea Pearl.
 - 🥭 My favorite fruits are mango and grapes!
 - 📫 You can contact me at [gnostism@proton.me](mailto:gnostism@proton.me).
