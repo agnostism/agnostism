@@ -1,7 +1,7 @@
 - 👋 Hey I'm Alice, a 2nd year CS undergraduate, interested in AI, digital ethics and penetration testing.
 - ❤ I love playing CTF games and finding software vulnerabilities.
 - 📚 I'm currently exploring the use of reinforcement learning in developing human-teachable AI.
-- 💻 I'm currently working on [Akiko](https://github.com/gnostism/akiko), a flexible source code optimizer for Python.
-- 💻 ...and [Ocean](https://github.com/gnostism/ocean), a small deep learning framework built from scratch.
+- 💻 I'm also working on [Akiko](https://github.com/gnostism/akiko), a flexible source code optimizer for Python.
+- 💻 ...and [Daisy](https://github.com/gnostism/daisy), a small, educational deep learning framework.
 - 🥭 My favorite fruits are mango and grapes!
 - 📫 You can contact me at [gnostism@proton.me](mailto:gnostism@proton.me).
