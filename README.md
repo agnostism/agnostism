@@ -1,7 +1,6 @@
 - 👋 Hi there, I'm Alice, a CS student interested in [synthetic media](https://en.wikipedia.org/wiki/Synthetic_media), digital ethics and penetration testing.
 - ❤ I love playing CTF games and finding software vulnerabilities.
 - 💻 I'm currently working on [Akiko](https://github.com/gnostism/akiko), a modular source code optimizer; and [Ocean](https://github.com/gnostism/ocean), a small deep learning framework.
-- 🎓 I'm currently studying the use of human supervision in reinforcement learning.
-- 📚 I'm currently reading [*Causal Inference In Statistics*](https://3lib.net/book/2664651/adcbf6) by Judea Pearl.
+- 📚 I'm currently studying the use of generative models in reinforcement learning.
 - 🥭 My favorite fruits are mango and grapes!
 - 📫 You can contact me at [gnostism@proton.me](mailto:gnostism@proton.me).
